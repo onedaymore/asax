@@ -10,3 +10,6 @@ rabbitMQ windows
 6-1、rabbitmqctl.bat set_permissions -p / anday4 ".*" ".*" ".*" 授权
 =======
 访问地址：http://127.0.0.1:15672/
+
+7、rabbitmq-service remove
+8、http://stackoverflow.com/questions/28258392/rabbitmq-has-nodedown-error
