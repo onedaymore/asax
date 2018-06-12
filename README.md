@@ -13,3 +13,4 @@ rabbitMQ windows
 
 7、rabbitmq-service remove
 8、http://stackoverflow.com/questions/28258392/rabbitmq-has-nodedown-error
+9、https://blog.csdn.net/u014308482/article/details/53994401 别人的博客
